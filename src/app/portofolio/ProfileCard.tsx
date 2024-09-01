@@ -37,7 +37,7 @@ export default function ProfileCard() {
           </defs>
           <text fill="#fff" fontSize="14" fontWeight="bold">
             <textPath href="#circlePath" startOffset="50%" textAnchor="middle">
-              HELLO, I'M <tspan fill="#FFD700" fontSize="16" fontWeight="bold">NUZUL TRIAS</tspan>! This is my Curriculum Vitae.
+              HELLO, I&apos;M <tspan fill="#FFD700" fontSize="16" fontWeight="bold">NUZUL TRIAS</tspan>! This is my Curriculum Vitae.
             </textPath>
           </text>
         </svg>
